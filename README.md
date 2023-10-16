@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, so Nars yi</h1>
+<h1 align="center">Hi 👋, so nur ali vac</h1>
 <h3 align="center">A passionate frontend developer from g1alg1ayche</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khamzadz&label=Profile%20views&color=0e75b6&style=flat" alt="khamzadz" /> </p>
